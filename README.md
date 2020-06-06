@@ -1,9 +1,6 @@
 # Mining-Sentiment-of-User-from-Twitter-Data-using-Recurrent-Neural-Network
 
 
-# Mining Sentiment of User from Twitter Data using Recurrent Neural Network 
-
-
 * Environment Setup:
 
 * Google Colab:
