@@ -19,7 +19,7 @@
    
    Create a new notebook, it will create a Jupyter notebook with Untitled0.ipynb and save it to your google drive in a folder named        Colab Notebooks. Run the code in colab.
    
-   The dataset is stored in google drive connect that drive to google colab upload to it your project folder in google colab in            following way:
+ * The dataset is stored in google drive, connect you drive account to google colab to upload the dataset in your project running in        google colab in following way: 
    1) Upon running the second cell of SentimentAnalysisusingLSTM.ipynb file the output provided the link .
    2) Follow the link to get the security code 
    3) Copy the same and paste it in the google colab running project and hit enter.
