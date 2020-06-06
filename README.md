@@ -21,9 +21,9 @@
    
  * The dataset is stored in google drive, connect you drive account to google colab to upload the dataset in your project running in        google colab in following way: 
    1) Upon running the second cell of SentimentAnalysisusingLSTM.ipynb file the output provided the link .
-   2) Follow the link to get the security code 
-   3) Copy the same and paste it in the google colab running project and hit enter.
+    2) Follow the link to get the security code 
+    3) Copy the same and paste it in the google colab running project and hit enter.
   
 * GUI :
   1) The later part of code consists a small gui  made with ipywidgets library. 
-  2) Upon running that cell number 29, the output displays a gui asking the user to enter his emotion or a feeling, enter it and hit submit   button to find whether user has depressive symptoms or not
+   2) Upon running that cell number 29, the output displays a gui asking the user to enter his emotion or a feeling, enter it and hit submit   button to find whether user has depressive symptoms or not
