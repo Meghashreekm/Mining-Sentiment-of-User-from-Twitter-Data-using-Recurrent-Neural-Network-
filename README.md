@@ -23,6 +23,6 @@
   Follow the link to get the security code 
   Copy the same and paste it in the google colab running project and hit enter.
   
-* GUI 
+* GUI :
   The later part of code consists a small gui  made with ipywidgets library. 
-Upon running that cell, the output displays a gui asking the user to enter his emotion or a feeling, enter it and hit submit button to find whether user has depressive symptoms or not
+Upon running that cell number 29, the output displays a gui asking the user to enter his emotion or a feeling, enter it and hit submit button to find whether user has depressive symptoms or not
