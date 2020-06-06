@@ -18,3 +18,11 @@
    Else you can create a new Jupyter notebook by clicking New Python3 Notebook or New Python2 Notebook at the bottom right corner.
    
  Create a new notebook, it will create a Jupyter notebook with Untitled0.ipynb and save it to your google drive in a folder named Colab    Notebooks. Run the code in colab.
+ The dataset is stored in google drive connect that drive to google colab upload to it your project folder in google colab in following     way:
+  Upon running the second cell of SentimentAnalysisusingLSTM.ipynb file the output provided the link .
+  Follow the link to get the security code 
+  Copy the same and paste it in the google colab running project and hit enter.
+  
+* GUI 
+  The later part of code consists a small gui  made with ipywidgets library. 
+Upon running that cell, the output displays a gui asking the user to enter his emotion or a feeling, enter it and hit submit button to find whether user has depressive symptoms or not
